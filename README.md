@@ -57,8 +57,8 @@ begin
 end
 endmodule
 
-Developed by : VARSHA  A
-RegisterNumber : 212223220121
+Developed by : SANJAI GANTH.B
+RegisterNumber : 24006814
 ~~~
 
 **RTL LOGIC UP COUNTER**
